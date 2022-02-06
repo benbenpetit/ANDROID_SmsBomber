@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMS BOMBER</string>
+    <string name="tab_contacts">Contacts</string>
+    <string name="tab_sendmessage">SMS Sender</string>
+    <string name="tab_stats">Statistics</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="number_of_messages">Number of messages</string>
+</resources>
